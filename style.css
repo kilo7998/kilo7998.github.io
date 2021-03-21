@@ -1,0 +1,42 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #faf5e3;
+}
+
+h1,li{
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+h1,ul{
+    margin: 0.5em 0 0 0;
+    padding: 0;
+}
+
+header a{
+    text-decoration: none;
+}
+
+#top-banner{
+    max-width: 100%;
+}
+
+.flex-links{
+    display: flex;
+    list-style-type: none;
+}
+
+.flex-links li{
+    margin-left: 1em;
+}
+
+.title{
+    text-align: center;
+}
+
+.content-main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
